@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Can Gökce --  Economic Research & Analysis
+- Senior at University of California, Riverside
+- Graduating June 2025
+- B.A. in Economics; Minors in Statistics and Mathematics
+- Seeking research roles both in academia and the private sector
 <!--
 **Canometrics/Canometrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
