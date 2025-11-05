@@ -1,5 +1,6 @@
 ## Can Gökce
 - B.A. in Economics; Minors in Statistics and Mathematics
+- UC Riverside grad
 <!--
 **Canometrics/Canometrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
