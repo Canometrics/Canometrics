@@ -1,6 +1,5 @@
 ## Can Gökce
-- Senior at University of California, Riverside
-- Graduating June 2025
+- University of California, Riverside graduate
 - B.A. in Economics; Minors in Statistics and Mathematics
 <!--
 **Canometrics/Canometrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
