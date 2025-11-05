@@ -1,4 +1,4 @@
-## Can Gökce --  Economic Research & Analysis
+## Can Gökce
 - Senior at University of California, Riverside
 - Graduating June 2025
 - B.A. in Economics; Minors in Statistics and Mathematics
